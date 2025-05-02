@@ -1,4 +1,9 @@
 Aiza Azeem
 24_ST_031
+ division
 divide two numbers a and b
 return a/b
+
+Subtract two numbers a and b
+return a-b
+ main
